@@ -1,30 +1,30 @@
 [submodule "auth"]
-	path = auth
+	path = repos/auth
 	url = git@github.com:consumeraffairs/auth.git
 [submodule "silverback"]
-	path = silverback
+	path = repos/silverback
 	url = git@github.com:consumeraffairs/silverback.git
 [submodule "userdb"]
-	path = userdb
+	path = repos/userdb
 	url = git@github.com:consumeraffairs/userdb.git
 [submodule "catracking"]
-	path = catracking
+	path = repos/catracking
 	url = git@github.com:consumeraffairs/catracking.git
 [submodule "cashared"]
-	path = cashared
+	path = repos/cashared
 	url = git@github.com:consumeraffairs/cashared.git
 [submodule "casecurity"]
-	path = casecurity
+	path = repos/casecurity
 	url = git@github.com:consumeraffairs/casecurity.git
 [submodule "consumeraffairs"]
-	path = consumeraffairs
+	path = repos/consumeraffairs
 	url = git@github.com:consumeraffairs/consumeraffairs.git
 [submodule "brands"]
-	path = brands
+	path = repos/brands
 	url = git@github.com:consumeraffairs/brands.git
 [submodule "text-messaging"]
-	path = text-messaging
+	path = repos/text-messaging
 	url = git@github.com:consumeraffairs/text-messaging.git
 [submodule "leads-api"]
-	path = leads-api
+	path = repos/leads-api
 	url = git@github.com:consumeraffairs/leads-api.git
