@@ -1,0 +1,30 @@
+[submodule "auth"]
+	path = auth
+	url = git@github.com:consumeraffairs/auth.git
+[submodule "silverback"]
+	path = silverback
+	url = git@github.com:consumeraffairs/silverback.git
+[submodule "userdb"]
+	path = userdb
+	url = git@github.com:consumeraffairs/userdb.git
+[submodule "catracking"]
+	path = catracking
+	url = git@github.com:consumeraffairs/catracking.git
+[submodule "cashared"]
+	path = cashared
+	url = git@github.com:consumeraffairs/cashared.git
+[submodule "casecurity"]
+	path = casecurity
+	url = git@github.com:consumeraffairs/casecurity.git
+[submodule "consumeraffairs"]
+	path = consumeraffairs
+	url = git@github.com:consumeraffairs/consumeraffairs.git
+[submodule "brands"]
+	path = brands
+	url = git@github.com:consumeraffairs/brands.git
+[submodule "text-messaging"]
+	path = text-messaging
+	url = git@github.com:consumeraffairs/text-messaging.git
+[submodule "leads-api"]
+	path = leads-api
+	url = git@github.com:consumeraffairs/leads-api.git
